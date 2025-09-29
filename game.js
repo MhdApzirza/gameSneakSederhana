@@ -107,3 +107,10 @@ document.addEventListener('keydown', handleKeyDown);
 // Inisialisasi awal
 generateFood();
 draw();
+
+sadsasdasdsada
+dsadsad
+
+
+
+sadasdasdas
